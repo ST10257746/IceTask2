@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/IceTask2_ST10257746.csproj": {}
+  },
+  "projects": {
+    "/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/IceTask2_ST10257746.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/IceTask2_ST10257746.csproj",
+        "projectName": "IceTask2_ST10257746",
+        "projectPath": "/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/IceTask2_ST10257746.csproj",
+        "packagesPath": "/Users/ashtonzackey/.nuget/packages/",
+        "outputPath": "/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ashtonzackey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

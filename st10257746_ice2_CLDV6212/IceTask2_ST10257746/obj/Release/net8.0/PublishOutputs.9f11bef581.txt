@@ -1,0 +1,7 @@
+/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/obj/Release/net8.0/PubTmp/Out/IceTask2_ST10257746
+/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/obj/Release/net8.0/PubTmp/Out/appsettings.Development.json
+/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/obj/Release/net8.0/PubTmp/Out/appsettings.json
+/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/obj/Release/net8.0/PubTmp/Out/IceTask2_ST10257746.dll
+/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/obj/Release/net8.0/PubTmp/Out/IceTask2_ST10257746.deps.json
+/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/obj/Release/net8.0/PubTmp/Out/IceTask2_ST10257746.runtimeconfig.json
+/Users/ashtonzackey/Desktop/st10257746_ice2_CLDV6212/IceTask2_ST10257746/obj/Release/net8.0/PubTmp/Out/IceTask2_ST10257746.pdb
